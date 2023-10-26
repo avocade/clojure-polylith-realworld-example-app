@@ -5,7 +5,7 @@ Using [Gitpod](https://www.gitpod.io) you can explore a [Polylith](https://polyl
 ![Gitpod-Polylith-RealWorld-example](.media/gitpod/Gitpod-Polylith-RealWorld.png)
 
 Don't click on this link just yet: 
-https://gitpod.io/#https://github.com/furkan3ayraktar/clojure-polylith-realworld-example-app
+https://gitpod.io/#https://github.com/avocade/clojure-polylith-realworld-example-app
 
 The link will take you to a full blown [VS Code](https://code.visualstudio.com/) running in your browser. The VS Code instance will have [Clojure](https://clojure.org) development support (through [Calva](https://calva.io)). The first time you use it, it may be quite a long wait. But then (after some little more waiting) you will be in the editor, connected to the REPL of the Polylith Real World server!
 
